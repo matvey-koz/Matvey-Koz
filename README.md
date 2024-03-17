@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matvey-Koz
-- 👀 I’m interested in making websites such as, with HTML, CSS, and Javascript
+- 👀 I’m interested in making websites with HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me My discord username is: programmmer
 - 😄 Pronouns: he/him
